@@ -5,6 +5,7 @@
 - 🤔 I’m looking for help with myself.
 - 💬 Ask me about anything? Not have to.
 - 📫 How to reach me？ emm...
+- 😍 my hobbies？ code & music.
 
 ### Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZhangHaoWeb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
