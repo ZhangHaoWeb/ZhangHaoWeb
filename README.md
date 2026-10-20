@@ -11,7 +11,8 @@
 - 最常发生的是「怎么又天亮了」。
 - 如果很久没更新，可能在写歌，也可能在睡觉。
 
-今天先这样，明天再改。
+---
 
-### Profile Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZhangHaoWeb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+今天先这样，明天再改。  
+*最后这句话可能已经很久没改了。*
+
