@@ -1,11 +1,17 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=ZhangHaoWeb&color=blue&style=flat-square&label=PROFILE+VIEWS)
 
-- 🌱 I’m currently learning web development & logical thinking.
-- 🤔 I’m looking for help with myself.
-- 💬 Ask me about anything? Not have to.
-- 📫 How to reach me？ emm...
-- 😍 my hobbies？ code & music.
+### 好巧，你也在这儿。
+
+写点代码，做点音乐。
+偶尔做出点东西，更多时候在想下一件。
+
+- 脑子里的项目，通常比仓库里的多。
+- 最常说的是「这个应该不难」。
+- 最常发生的是「怎么又天亮了」。
+- 如果很久没更新，可能在写歌，也可能在睡觉。
+
+今天先这样，明天再改。
 
 ### Profile Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ZhangHaoWeb&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
